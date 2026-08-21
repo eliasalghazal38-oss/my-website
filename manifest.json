@@ -1,0 +1,15 @@
+{
+  "short_name": "حكي جالس",
+  "name": "حكي جالس | المنبر الإعلامي والسياسي",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "/index.php",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "display": "standalone"
+}
